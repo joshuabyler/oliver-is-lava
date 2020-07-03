@@ -8,5 +8,9 @@
 out
 gen
 
-# Project
-node_modules
+# Vendors
+node_modules/
+
+# Build
+dist/
+/npm-debug.log
